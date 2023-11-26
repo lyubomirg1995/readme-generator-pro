@@ -22,6 +22,8 @@
   ## Usage
   
 Run the cloned file in VSCode, open the Integrated Terminal on index.js, then type node index.js in the command-line.
+
+Video demonstration: https://drive.google.com/file/d/1xDC4ApH_WnjU8etODrtLJwtrZyrAEHH_/view?usp=sharing
   
   ## License
 
