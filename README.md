@@ -4,7 +4,7 @@
   
   ## Description
   
-  Generating the structure of README file
+  This application allows the user to generate a README markdown file from the command-line by answering a list of questions. 
   
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   
   ## Installation
   
-  Cloning remote repository, running npm inquirer, node index.js
+ Use  `git clone` in your command-line
   
   ## Usage
   
-  Generate high quality README markdowns
+Run the cloned file in VSCode, open the Integrated Terminal on index.js, then type node index.js in the command-line.
   
   ## License
 
@@ -29,11 +29,11 @@ This project is licensed under the MIT license.
   
   ## Contributing
   
-  Open an issue and submit modifications
+  Clone or fork the repo, make modifications, then submit a pull request. If the team judges the changes to be satisfactory, the changes will be merged into the main branch. 
   
   ## Tests
   
-  run node index.js
+  Test the project with random data. 
   
   ## Questions
   
